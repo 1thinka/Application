@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119293025533",
+    "firebase_url": "https://kacmacuna-3768d.firebaseio.com",
+    "project_id": "kacmacuna-3768d",
+    "storage_bucket": "kacmacuna-3768d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119293025533:android:cc5176d439f8f43ec47294",
+        "android_client_info": {
+          "package_name": "com.example.kacmacuna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119293025533-gvgdccu859uhu5sknughkcds27e3csnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kacmacuna",
+            "certificate_hash": "415e20d42b4aa90bc3ed3f6120322300342aa697"
+          }
+        },
+        {
+          "client_id": "119293025533-n87h36gktl0c00g2nurt7th5iaqupeff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIyjBIjJcaSpnbVHjwTnWDMZZKt004hM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119293025533-n87h36gktl0c00g2nurt7th5iaqupeff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
